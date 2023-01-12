@@ -12,7 +12,7 @@ local package = {
         repo_name = "CC-Code",
         repo_ref = "master",
         filemaps = {
-            "cimg2.lua" = "/lib/cimg2.lua"
+            ["cimg2.lua"] = "/lib/cimg2.lua"
         }
     }
 }
