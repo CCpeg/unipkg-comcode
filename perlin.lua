@@ -12,7 +12,7 @@ local package = {
         repo_name = "CC-Code",
         repo_ref = "master", -- you listenin to christmas music now?, hmmmm
         filemaps = { -- AAA does a lot of different stuff
-            ["perlin.lua"] = "/lib/cimg2.lua"
+            ["perlin.lua"] = "/lib/perlin.lua"
         }
     }    
 }
