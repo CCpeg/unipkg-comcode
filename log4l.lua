@@ -1,7 +1,7 @@
 local package = {
     unicornSpec = "v1.0.0",
-    name = "combtAPI2",
-    desc = "Easy to use button api.",
+    name = "log4l",
+    desc = "Easy to use logging library.",
     dirs = {},
     maintainer = "Compec",
     licensing = "MIT",
@@ -12,8 +12,8 @@ local package = {
         repo_name = "CC-Code",
         repo_ref = "master",
         filemaps = {
-            ["combtAPI2.lua"] = "/lib/combtAPI2.lua"
+            ["log4l.lua"] = "/lib/log4l.lua" -- now we work on ccpeg? or do we add programs now
         }
     }
-}
-return package
+} -- bananer lets work on ccpeg, aight let me make a repo
+return package -- cool
